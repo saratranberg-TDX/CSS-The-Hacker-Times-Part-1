@@ -2,4 +2,19 @@
 
 body{
     background: #eee;
+    font-family: 'Source Sans Pro', sans-serif;
 }
+
+.newspaper-container{
+    background: #fff;
+    width: 700px;
+    border-radius: 15px;
+    margin: 2.2rem auto;
+    padding: 1rem;
+    box-shadow: 0 0 5px #c3c3c3;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
